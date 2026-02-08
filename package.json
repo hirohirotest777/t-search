@@ -1,0 +1,13 @@
+{
+  "name": "t-search_test",
+  "version": "1.0.0",
+  "description": "Azure Web App Node.js (~20) sample",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
